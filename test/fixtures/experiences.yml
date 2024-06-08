@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  profile: one
+  role: MyString
+  event: MyString
+  period: MyString
+
+two:
+  profile: two
+  role: MyString
+  event: MyString
+  period: MyString
